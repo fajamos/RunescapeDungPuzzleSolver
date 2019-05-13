@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="tile_states">
+        <attr name="state_light" format="boolean"/>
+        <attr name="state_dark" format="boolean"/>
+        <attr name="state_tile_selected" format="boolean"/>
+    </declare-styleable>
+</resources>

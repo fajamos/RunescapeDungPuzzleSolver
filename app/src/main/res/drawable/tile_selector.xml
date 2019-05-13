@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:enterFadeDuration="100"
+    android:exitFadeDuration="100">
+    <item
+        app:state_tile_selected="false"
+        app:state_light="true"
+        android:drawable="@drawable/tile_light" />
+    <item
+        app:state_tile_selected="false"
+        app:state_dark="true"
+        android:drawable="@drawable/tile_dark" />
+    <item
+        app:state_tile_selected="true"
+        app:state_light="true"
+        android:drawable="@drawable/tile_light_pointed" />
+    <item
+        app:state_tile_selected="true"
+        app:state_dark="true"
+        android:drawable="@drawable/tile_dark_pointed" />
+</selector>

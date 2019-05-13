@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#767676</color>
+    <color name="colorPrimaryDark">#565656</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorDarkTile">#059c63</color>
+    <color name="colorDarkTileSelected">#09a674</color>
+    <color name="colorLightTile">#cbcb80</color>
+    <color name="colorLightTileSelected">#dbdba0</color>
+    <color name="colorSelect">#ba2222</color>
+</resources>
